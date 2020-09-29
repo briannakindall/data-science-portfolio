@@ -4,7 +4,7 @@ This portfolio contains data science projects that I have completed for learning
 ## Projects
 
 - __Data Analysis__
-    - [Analyzing Fatal Police Shootings in the US](briannakindall/data-science-portfolio/Fatal%20Police%20Shootings%20in%20the%20US)
+    - [Analyzing Fatal Police Shootings in the US](https://github.com/briannakindall/data-science-portfolio/tree/master/Fatal%20Police%20Shootings%20in%20the%20US)
 
 - __Machine Learning__
-    - [Predicting Heart Disease](Predicting\ Heart\ Disease/)
+    - [Predicting Heart Disease](https://github.com/briannakindall/data-science-portfolio/tree/master/Predicting%20Heart%20Disease)
